@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    display: flex;
+    gap: 80px;
+    list-style: none;
+    margin-left: 70px;
+
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.wrapper-header{
+    display: flex;
+    align-items: center;
+}
+.basket{
+    margin-left: -40px;
+}
